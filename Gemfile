@@ -51,6 +51,9 @@ gem 'rails-i18n'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'select2-rails'
 
+# Add Webpacker gem for Vue.js
+gem 'webpacker', github: 'rails/webpacker'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
